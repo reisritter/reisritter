@@ -2,12 +2,8 @@
 <ul>
    <li>Atualmente estou no Bootcamp Generation Full Stack Java</li>
    <li>FATEC-SP - Análise e desenvolvimento de sistemas</li>
+   <li><a href="https://linkedin.com/in/gabrielreisritter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabrielreisritter" height="30" width="40" /></a></li>
 </ul>
-<h2 align="left">Mihas redes:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/gabrielreisritter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabrielreisritter" height="30" width="40" /></a>
-<a href="https://instagram.com/reisritter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="reisritter" height="30" width="40" /></a>
-</p>
 <br>
 <h3 align="left">Linguagens:</h3>
 <p align="left"> 
