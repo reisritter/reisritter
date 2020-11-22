@@ -1,10 +1,9 @@
 <h2 align="left">Mihas redes:</h2>
-<br>
 <p align="left">
 <a href="https://linkedin.com/in/gabrielreisritter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabrielreisritter" height="30" width="40" /></a>
 <a href="https://instagram.com/reisritter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="reisritter" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Linguagens:</h3>
 <p align="left"> 
    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
