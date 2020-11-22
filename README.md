@@ -1,4 +1,8 @@
 <h1>Opa, sou o Gabriel Ritter, chega mais!</h1>
+<ul>
+   <li>Atualmente estou no Bootcamp Generation Full Stack Java</li>
+   <li>FATEC-SP - Análise e desenvolvimento de sistemas</li>
+</ul>
 <h2 align="left">Mihas redes:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/gabrielreisritter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabrielreisritter" height="30" width="40" /></a>
@@ -22,13 +26,6 @@
 </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </a> 
-  <br>
-  <h3 align="left">Banco de Dados:</h3>   
-  <a href="https://www.oracle.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <br>
-  <h3 align="left">Nuvem:</h3>    
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-
 
   </p>
   
