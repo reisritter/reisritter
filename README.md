@@ -6,6 +6,8 @@
 - [ ] Visitar meu [LINKEDIN](https://www.linkedin.com/in/gabrielreisritter/);
 - [ ] Tomar café com o baby yoda!
 
+<p align="center">
 <img src="img/tenor.gif" alt=""/>
 > Não fará disfeita com o baby yoda não é?
+</p>
 
