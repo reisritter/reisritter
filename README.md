@@ -1,5 +1,5 @@
 <h1 align="center">Finalmente você chegou! Seja bem-vindo! </h1>
-<h2>Eis sua lista  de tarefas:</h2>
+:fa-check: <h2>Eis sua lista  de tarefas:</h2>
 
 - [x] Visitar meu Github;
 - [ ] Dar uma olhada nos repositórios;
@@ -9,5 +9,5 @@
 <p align="center">
 <img src="img/tenor.gif" alt=""/>
 </p>
-<i class="fab fa-readme"></i>
+
 
