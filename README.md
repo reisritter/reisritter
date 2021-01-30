@@ -8,6 +8,8 @@
 
 <p align="center">
 <img src="img/tenor.gif" alt=""/>
-> Não fará disfeita com o baby yoda não é?
+</p>
+<p align="center">
+>Não fará disfeita com o baby yoda não é?
 </p>
 
