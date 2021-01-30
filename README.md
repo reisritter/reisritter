@@ -1,5 +1,8 @@
-<h1 align="center">Finalmente você chegou! Seja bem-vindo! </h1>
-:fa-check: <h2>Eis sua lista  de tarefas:</h2>
+<h1 align="center">:coffee: Finalmente você chegou! Seja bem-vindo! :coffee: </h1>
+<p align="center">
+<img src="http://gph.is/29yiaUc" alt=""/>
+</p>
+<h2>:bookmark_tabs: Eis sua lista  de tarefas:</h2>
 
 - [x] Visitar meu Github;
 - [ ] Dar uma olhada nos repositórios;
@@ -9,5 +12,4 @@
 <p align="center">
 <img src="img/tenor.gif" alt=""/>
 </p>
-
 
