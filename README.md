@@ -1,6 +1,6 @@
 <h1 align="center">:coffee: Finalmente você chegou! Seja bem-vindo! :coffee: </h1>
 <p align="center">
-<img src="img/pc2.gif" height="240px" alt=""/>
+<img src="img/pc2.gif" height="300px" width="580px" alt=""/>
 </p>
 <h2>:bookmark_tabs: Eis sua lista  de tarefas:</h2>
 
